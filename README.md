@@ -1,4 +1,5 @@
 📊 Stock Forecasting Application
+# AI-Based Stock Forecasting System
 
 > This repository contains a Streamlit-based stock forecasting application built to analyze, visualize, and predict stock performance. It features stock information, price prediction using ARIMA models, return and risk analysis via CAPM, and technical indicator-based insights for smarter investment decisions.
 
@@ -55,11 +56,11 @@ Or, use a requirements.txt to streamline setup.
 ⚙️ How to Run
 Clone the repository:
 
-> git clone https://github.com/tripathiaditya21/Stock_Forecasting_Application.git
+> git clone https://github.com/ashikajainn2025-web/Stock-forecasting-app.git
 
 Navigate into the project directory:
 
-> cd Stock_Forecasting_Application
+> cd Stock-forecasting-app
 
 Install dependencies:
 
@@ -82,5 +83,5 @@ The app will open in your default web browser.
 ![WhatsApp Image 2025-04-23 at 21 46 05_590ede61](https://github.com/user-attachments/assets/9a1a8ff1-6125-4066-96bf-7e7ab61f7481)
 
 👤 Author:
-Aditya Tripathi 
+Ashika Jain 
 B.Tech CSE | Data Engineer
